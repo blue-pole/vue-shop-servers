@@ -7,7 +7,7 @@
 4. 在本目录终端中运行【node .\app.js】启动后端服务器。
 
 #关于mysql数据库的安装及配置（仅供参考）
-1. 前往phpstudy官网安装phpstudy 或 phpstudy_pro
+1. 前往phpstudy官网安装phpstudy 或 phpstudy_pro【https://www.xp.cn/download.html】
 2. 打开phpstudy，在【软件管理】选项卡下安装mysql
 3. 点开【数据库】选项卡，点击【创建数据库】按钮，创建mysql数据库，此过程中即可配置database--数据库名，user--用户名 和 password--密码 三项。
 4. 点击新建数据库的【操作->导入】，导入mydb.sql文件。
