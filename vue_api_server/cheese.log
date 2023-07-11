@@ -923,3 +923,11 @@
 [2023-07-08T19:17:31.038] [DEBUG] cheese - admin
 [2023-07-08T19:17:31.044] [DEBUG] cheese - null
 [2023-07-08T19:17:31.044] [DEBUG] cheese - null
+[2023-07-09T15:20:01.538] [DEBUG] cheese - login => username:admin,password:123456
+[2023-07-09T15:20:01.541] [DEBUG] cheese - admin
+[2023-07-09T15:20:01.557] [DEBUG] cheese - null
+[2023-07-09T15:20:01.557] [DEBUG] cheese - null
+[2023-07-09T15:44:48.420] [DEBUG] cheese - login => username:admin,password:123456
+[2023-07-09T15:44:48.421] [DEBUG] cheese - admin
+[2023-07-09T15:44:48.432] [DEBUG] cheese - null
+[2023-07-09T15:44:48.432] [DEBUG] cheese - null
